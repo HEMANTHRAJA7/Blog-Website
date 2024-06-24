@@ -6,7 +6,7 @@ const methodOverride = require('method-override')
 const app = express()
 const port= 3000;
 
-mongoose.connect('mongodb://localhost/blog')
+mongoose.connect('mongodb://127.0.0.1/blog')
 
 app.set("views", "./view")
 app.set('view engine', 'ejs')
