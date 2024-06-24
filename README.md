@@ -1,7 +1,5 @@
 # Blog website
 
-## Use the app LIVE here: https://weather-forecast-web-z236.onrender.com/
-
 ## How to run the app
 1. Open the file in VSCode and run "npm i" on the console to download the modules.
 2. On the console, run "nodemon index.js".
